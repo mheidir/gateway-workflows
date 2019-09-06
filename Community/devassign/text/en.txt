@@ -1,0 +1,2 @@
+title=Device Assignment
+info=This workflow assigns the next available IP address as DHCP Reserved and creates a host record entry for the device
